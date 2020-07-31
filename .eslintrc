@@ -5,3 +5,7 @@ env:
 
 extends:
   "htmlacademy/es5"
+
+module.exports = {
+  "extends": "standard"
+};
